@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Leon
+- 👀 I’m I am a novice programmer from Germany.
